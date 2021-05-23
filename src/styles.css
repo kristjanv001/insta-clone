@@ -1,0 +1,48 @@
+.content-container {
+  max-width: 90vw;
+  margin: 100px auto 0;
+  margin-top: 64px;
+}
+
+@media only screen and (min-width: 600px) {
+  .content-container {
+    width: 500px;
+  }
+}
+
+.card-container {
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+
+.header {
+  padding: 0;
+  border-bottom: 1px solid lightgrey;
+  background: white;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+.header-content-container {
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 600px) {
+  .header-content-container {
+    width: 500px;
+  }
+}
+
+.header-logo {
+  padding: 0 0px 0 0;
+  margin: 0;
+}
+
+.footer {
+  text-align: center;
+}
