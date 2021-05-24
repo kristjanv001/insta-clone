@@ -12,7 +12,7 @@ export const Header = () => {
   return (
     <Header className="header">
       <div className="header-content-container">
-        <h1 className="header-logo">Insta</h1>
+        <h1 className="header-logo">📷 Insta</h1>
 
         {authCtxObj?.user && <DrawerMenu />}
 
