@@ -1,6 +1,5 @@
 # Insta
 
-![](https://i.imgur.com/YiuQyW8.jpg)
 ![](https://i.imgur.com/yxFrFOI.png)
 
 ## 📝 Description
