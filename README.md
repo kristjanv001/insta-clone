@@ -1,7 +1,7 @@
 # Insta
 
 ![](https://i.imgur.com/YiuQyW8.jpg)
-![](https://i.imgur.com/HQ5bOae.png)
+![](https://i.imgur.com/yxFrFOI.png)
 
 ## 📝 Description
 
